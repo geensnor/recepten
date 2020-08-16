@@ -7,7 +7,7 @@
 - 2 el japanse sojasaus
 - 1 rode ui
 - 1 rode peper
-- 200g peultjes of sugar snaps per persoon
+- 100 g peultjes of sugar snaps per persoon
 - 1 komkommer
 - Verse koriander
 - Zonnebloemolie
