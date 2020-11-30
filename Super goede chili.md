@@ -40,7 +40,7 @@ Super goede chilil maak je door de tijd te nemen, en dit recept te volgen (origi
 12. Doe ondertussen 2 blikken tomatenblokjes bij de groente + geconcentreerd tomatenpuree en laat nog ff mee pruttelen.
 13. Spoel de kidneybonen en zwarte bonen af, en gooi ze bij de groentestoof.
 14. Gooi het lekker kruidige gehakt spul bij de pan erbij.
-15. Giet een goede scheut v8 erbij, we gaan het nu 2/3 laten pruttelen en zo nu en dan wat v8 bij doen zodat de boel niet droogkookt.
+15. Giet een goede scheut v8 erbij, we gaan het nu 2 tot 3 uur laten pruttelen en zo nu en dan wat v8 bij doen zodat de boel niet droogkookt.
 16. Laat het 2 tot 3 uur pruttelen, check regelmatig of het niet aanbakt (en anders scheut v8 erbij)
 17. Schenk een glas wijn in en snijd een blokje kaas, je moet wat tijdens het wachten :)
 
