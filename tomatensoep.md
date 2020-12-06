@@ -9,7 +9,7 @@ Eigenlijk gewoon het soeppakket van de AH. Maar van dat pakket zijn de ingredien
 - 1 Ui
 - 2 Groenteboullion blokjes
 - Gehaktballetjes
-- Tijm en/of rozemarijn. Net waar je zin in hebt.
+- Tijm en/of rozemarijn. Net waar je zin in hebt. Blokje gemer kan ook, maar maak het niet te gek.
 
 ## Bereiding
 - Knoflook snijden en met tomatenpuree in een pan doen
@@ -17,7 +17,7 @@ Eigenlijk gewoon het soeppakket van de AH. Maar van dat pakket zijn de ingredien
 - Peen en ui snijden, in de pan erbij gooien
 - Weer even wachten
 - Tomaten in stukken snijden en erbij gooien
-- Kruiden erbij
+- Kruiden/gember erbij
 - 15 minuten wachten, beetje laten pruttelen
 - Boel pureren met een staafmixer
 - Gehaktballetjes erin en wachten totdat die gaar zijn.
