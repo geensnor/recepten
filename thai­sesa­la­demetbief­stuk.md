@@ -6,11 +6,11 @@ Voor 2 personen
 - 1 el vissaus
 - 2 tl lichtbruine basterdsuiker
 - 2 el japanse sojasaus
-- 1 rode ui
+- 1 rode ui. 1/2 als hij erg groot is.
 - 1 rode peper
 - 150 g peultjes of sugar snaps per persoon.
 - 1,5 komkommer
-- Verse koriander
+- Verse koriander. Best veel.
 - Zonnebloemolie
 - Biefstuk
 - Gezouten pinda's
