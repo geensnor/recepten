@@ -1,6 +1,9 @@
 # La­sag­ne met ver­se en ge­rook­te zalm
 
+![foto van gerecht](https://static.ah.nl/static/recepten/img_048744_2048x1496_JPG.jpg)
+
 ## Ingredienten
+
 - 1 Ui
 - Olijfolie
 - 750 gram romatomaten

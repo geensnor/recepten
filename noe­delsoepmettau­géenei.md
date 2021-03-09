@@ -1,4 +1,7 @@
-# Noe­delsoep met tau­gé en ei
+# Noedelsoep met taugé en ei
+
+![afbeelding van gerecht](https://static.ah.nl/static/recepten/img_008861_2048x1496_JPG.jpg)
+
 ## Ingredienten
 * 150 g ontbijtspek aan een stuk
 * 2 tenen knoflook
@@ -20,3 +23,4 @@ Breng ondertussen het water in een soeppan aan de kook en los de bouillontablett
 Neem de mie met een spaghettilepel uit de bouillon en verdeel over 4 ruime kommen. Schep het spek-paksoimengsel erop en schenk de bouillon erover. Verdeel de taugé over de kommen, halveer de eieren en leg op de taugé. Bestrooi met de uitjes.
 
 [https://www.ah.nl/allerhande/recept/R-R900704/noedelsoep-met-tauge-en-ei](https://www.ah.nl/allerhande/recept/R-R900704/noedelsoep-met-tauge-en-ei)
+
