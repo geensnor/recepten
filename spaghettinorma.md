@@ -1,7 +1,7 @@
 # Spaghetti alla Norma
 
 Spaghetti van Norma. Het is een typisch gerecht van de Siciliaanse keuken, oorspronkelijk gemaakt in Catania, Sicilië, Italië. 
-> The name of the dish is said to originate from the apocryphal exclamation by the Italian writer Nino Martoglio who, upon tasting the dish, exclaimed "This is a real 'Norma'!",[2] comparing it with the exceptional perfection of the Vincenzo Bellini opera Norma. 
+> The name of the dish is said to originate from the apocryphal exclamation by the Italian writer Nino Martoglio who, upon tasting the dish, exclaimed "This is a real 'Norma'!", comparing it with the exceptional perfection of the Vincenzo Bellini opera Norma. 
 
 ## Ingredienten
 
