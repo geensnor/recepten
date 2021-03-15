@@ -1,5 +1,6 @@
 # Courgette spaghetti met groene pesto en garnalen
 
+![afbeelding van gerecht](https://www.mindyourfeed.nl/wp-content/uploads/2017/03/courgette-spaghetti-met-groene-pesto-IMG_8549.jpg)
 
 Van [mindyourfeed.nl](https://www.mindyourfeed.nl/recepten/diner/courgette-spaghetti-met-groene-pesto/)
 
@@ -9,7 +10,6 @@ Voor twee personen
 
 - 1 courgette
 - 1 shot [Saclà Pesto Shots](http://pubads.g.doubleclick.net/gampad/clk?id=88453962&iu=/4217/3rdparty/MindYourFeed)
-
 - 100 gr groene asperges
 - 50 gr rucola
 - 10 kleine smaaktomaatjes
