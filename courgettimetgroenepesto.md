@@ -22,8 +22,8 @@ Voor twee personen
 - olie
 - Parmezaanse kaas naar smaak
 
-
 ## Bereiding
+
 1. Verwarm de oven voor op 180 graden.
 2. Leg de tomaatjes in de ovenschaal, schenk hier wat olie over en bestrooi met een snuf peper en zout. Schuif de oven in en laat de tomaatjes in ongeveer 10 minuten poffen.
 3. Doe de garnalen in een schaal. Schenk hier een scheut olie bij en pers het sap van ½ citroen erbij uit.
