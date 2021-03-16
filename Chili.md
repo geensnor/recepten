@@ -1,4 +1,4 @@
-# Super goede chili
+# Chili die kei lekker is
 
 Super goede chilil maak je door de tijd te nemen, en dit recept te volgen (origineel van Jeroen Meeus).
 
