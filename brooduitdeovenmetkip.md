@@ -1,7 +1,9 @@
 # Brood uit de oven met kip
+
 Voor ongeveer 2 personen
 
 ## Ingredienten
+
 - 5 tomaten
 - Afbakstokbrood
 - Ui
@@ -10,9 +12,10 @@ Voor ongeveer 2 personen
 - Rucola
 - Tijm, rosemarijn, peper en komijn
 - Olijfolie
-- Pesto, potje is prima. 
+- Pesto, potje is prima.
 
 ## Bereiding
+
 1. Maak een marinade van olijfolie, tijm, rosemarijn, peper, komijn en knoflook
 2. Snij en fruit de ui.
 3. Snij de kip in redelijk grote stukken en laat ze een tijdje in de helft van de marinade staan en roer af en toe door

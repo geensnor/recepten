@@ -1,8 +1,10 @@
 # Courgetti met avocado en zalm
+
 Voor ongeveer 2 personen.
 
 
 ## Ingredienten
+
 - 1 pak courgetti
 - 1 ui
 - 2 tenen knoflook
@@ -16,9 +18,10 @@ Voor ongeveer 2 personen.
 - Zout
 
 ## Bereiding
+
 - Snij de avocado doormidden en verwijder de pit. Schep het vruchtvlees uit de schil en prak dit fijn. Meng met de plantaardige room en wat limoensap en breng op smaak met peper en zout.
 - Ui fruiten, knoflook uitpersen en erbij.
 - Courgetti 1 minuut meebakken. Niet te lang want dan wordt het slap.
 - Boel door elkaar gooien. Zalm kun je erbij doen, maar later los mag ook.
 - Limoen en kaas erbij als je zin hebt.
-- Eten
+- Eten.
