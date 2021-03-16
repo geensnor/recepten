@@ -30,6 +30,6 @@ Op de Barbeque. Recept uit de Volkskrant
 - Spoel de visjes goed van binnen en buiten en dep droog.
 - Bestrijk ze aan alle kanten met olie en kruid royaal met zeezout
 
-- Stook de barbecue niet al te hoog op, anders maakt het druipende vet dat de sardientjes meteen in de fik vliegen. - Rooster ze gelijkmatig in ongeveer in drie minuten per kant goudbruin, en draai ze voorzichtig om met twee lepels, dat werkt het best. 
+- Stook de barbecue niet al te hoog op, anders maakt het druipende vet dat de sardientjes meteen in de fik vliegen. - Rooster ze gelijkmatig in ongeveer in drie minuten per kant goudbruin, en draai ze voorzichtig om met twee lepels, dat werkt het best.
 - Schenk nog een straaltje olijfolie over de tzatziki, en serveer visjes en saus met knapperig Turks brood dat u even in de oven opfluft.
 - Een citroentje erbij is facultatief.
