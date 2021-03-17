@@ -1,5 +1,7 @@
 # Courgetti met avocado en zalm
 
+![courgetti plaatje](https://mrandmsinthekitchen.nl/wp-content/uploads/2020/03/IMG_2626-kopi%C3%ABren-1170x780.jpg)
+
 Voor ongeveer 2 personen.
 
 
