@@ -1,3 +1,9 @@
+---
+prepTime: PT30M
+cookTime: PT30M
+totalTime: PT60M
+recipeYield: 3
+---
 # Brood uit de oven met kip
 
 Voor ongeveer 2 personen
