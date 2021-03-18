@@ -6,7 +6,7 @@ recipeYield: 3
 ---
 # Brood uit de oven met kip
 
-Voor ongeveer 2 personen
+
 
 ## Ingredienten
 
