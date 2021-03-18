@@ -7,4 +7,27 @@ Als je wil dat de metadata van de recepten goed staat, moet je je aan de volgend
 3. De lijst (ul) na het woord "Ingredienten" wordt beschouwd als de lijst van ingredienten.
 4. De lijst (ol) na het woord "Bereiding" wordt beschouwd de stappen voor de bereiding.
 
+## Extra velden
+
+Extra metadata kun je in het recept meegeven via Frontmatter. Hieronder staat hoe, en welke velden je kan gebruiken. Alles is optioneel.
+
+```
+---
+prepTime: PT30M
+cookTime: PT30M
+totalTime: PT60M
+recipeYield: 3
+keywords: vegetarisch,groente
+recipeCategory: hoofdgerecht
+recipeCuisine: japans
+calories: 400
+---
+```
+
+Het [schema](https://schema.org/Recipe) bevat nog veel meer velden, maar daar doen we (nog?) niets mee. 
+
+De metadata wordt bovendien in een geinig tabelletje bovenin het recept weergegeven.
+
+
+
 Meer info: [https://jsonld.com/recipe/](https://jsonld.com/recipe/)
