@@ -1,3 +1,8 @@
+---
+recipeYield: 3
+recipeCategory: hoofdgerecht
+---
+
 # Pad Thai
 
 ## Ingrediënten
