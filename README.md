@@ -11,7 +11,7 @@ Als je wil dat de metadata van de recepten goed staat, moet je je aan de volgend
 
 Extra metadata kun je in het recept meegeven via Frontmatter. Hieronder staat hoe, en welke velden je kan gebruiken. Alles is optioneel.
 
-```
+```YAML
 ---
 prepTime: PT30M
 cookTime: PT30M
