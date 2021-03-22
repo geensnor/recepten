@@ -23,7 +23,3 @@
 * Serveer de rest in bakjes
 * Zet een grote kom lauw water op tafel om de rijstvellen in te doen
 * Maak springrols door ze nat te maken, ingredienten erin te stoppen en ze op te vouwen.
-
-
-
-
