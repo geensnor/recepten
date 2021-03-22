@@ -24,10 +24,8 @@ calories: 400
 ---
 ```
 
-Het [schema](https://schema.org/Recipe) bevat nog veel meer velden, maar daar doen we (nog?) niets mee. 
+Het [schema](https://schema.org/Recipe) bevat nog veel meer velden, maar daar doen we (nog?) niets mee.
 
 De metadata wordt bovendien in een geinig tabelletje bovenin het recept weergegeven.
-
-
 
 Meer info: [https://jsonld.com/recipe/](https://jsonld.com/recipe/)
