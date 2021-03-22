@@ -1,15 +1,45 @@
 on: push
-name: Publish Recepten
+name: Lint en publish recepten
 jobs:
+  build:
+    # Name the Job
+    name: Lint Code Base
+    # Set the agent to run on
+    runs-on: ubuntu-latest
+
+    ##################
+    # Load all steps #
+    ##################
+    steps:
+      ##########################
+      # Checkout the code base #
+      ##########################
+      - name: Checkout Code
+        uses: actions/checkout@v2
+        with:
+          # Full git history is needed to get a proper list of changed files within `super-linter`
+          fetch-depth: 0
+
+      ################################
+      # Run Linter against code base #
+      ################################
+      - name: Lint Code Base
+        uses: github/super-linter@v3
+        env:
+          VALIDATE_ALL_CODEBASE: true
+          DEFAULT_BRANCH: main
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
   FTP-Deploy-Action:
     name: FTP-Deploy-Action
+    needs: build
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: FTP-Deploy-Action
-      uses: SamKirkland/FTP-Deploy-Action@2.0.0
-      env:
-        FTP_SERVER: jorisxl2.two.axc.nl
-        FTP_USERNAME: recepten@jorisxl2.two.axc.nl
-        FTP_PASSWORD: ${{ secrets.ftppassword }}
-        ARGS: --exclude-glob=.git*/** --exclude-glob=.git** --delete
+      - uses: actions/checkout@main
+      - name: FTP-Deploy-Action
+        uses: SamKirkland/FTP-Deploy-Action@2.0.0
+        env:
+          FTP_SERVER: jorisxl2.two.axc.nl
+          FTP_USERNAME: recepten@jorisxl2.two.axc.nl
+          FTP_PASSWORD: ${{ secrets.ftppassword }}
+          ARGS: --exclude-glob=.git*/** --exclude-glob=.git** --delete
