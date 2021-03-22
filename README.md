@@ -21,6 +21,7 @@ keywords: vegetarisch,groente
 recipeCategory: hoofdgerecht
 recipeCuisine: japans
 calories: 400
+author: Piet
 ---
 ```
 
