@@ -5,22 +5,13 @@ Recept in experimentele fase. Nog nooit gemaakt en bij elkaar bedacht van andere
 ## Ingredienten
 
 * Markreel
-
 * Rode bieten. Blokjes
-
 * Veldsla
-
 * Rode ui
-
 * Augurken
-
 * Rode wijn azijn
-
 * Zonnebloem pitten (of niet?)
-
 * Beetje citroensap
-
-  
 
 ## Bereiding
 

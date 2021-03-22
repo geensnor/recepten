@@ -1,8 +1,11 @@
 # Gnocchi met courgette en tomaat
+
 Vegetarisch en heel snel
 
 ## Ingredienten
+
 Voor ongeveer 3 personen
+
 - Pak gnocchi
 - 1 courgette
 - Bakje cherrytomaten
@@ -11,6 +14,7 @@ Voor ongeveer 3 personen
 - Parmesaanse kaas
 
 ## Bereiding
+
 1. Bak de gnocchi in een pan met wat olijfolie. Laat het een beetje bruin worden
 2. Bak in een andere pan ondertussen de gesneden courgette. Zorg dat het een beetje krokant wordt
 3. Halveer de cherrytomaten en gooi ze bij de courgette.

@@ -1,6 +1,7 @@
 # Wokolie
 
 ## Ingredienten
+
 - Gember, 2 cm
 - Knoflook, twee tenen
 - Sesamolie, 10 ml
@@ -8,4 +9,5 @@
 - Honing, 2 el
 
 ## Bereiding
+
 - Doe alles door elkaar

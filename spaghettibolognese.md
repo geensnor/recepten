@@ -1,8 +1,13 @@
-# Spaghetti Bolognese 
+---
+recipeYield: 3
+recipeCategory: hoofdgerecht
+recipeCuisine: italiaans
+---
+# Spaghetti Bolognese
+
 Deze is wel van Jamie Oliver. Niet de originele dus. Geen peen erin bijvoorbeeld.
 
 ## Ingredienten
-Voor 3 a 4 personen
 
 - Paar plakjes pancetta (Italiaans speksoort)
 - Beetje verse rozemarijn
@@ -19,10 +24,11 @@ Voor 3 a 4 personen
 - Als je zin hebt voor erbij: handje verse basilicum & geraspte Parmezaanse kaas en een groene salade
 
 ## Bereiding
+
 - Pancetta in stukken en rozemarijn in een pan doen en een beetje bakken
 - Knoflook en ui in stukjes erbij
 - Gehakt erbij. Even wachten totdat het een beetje gaar begint te worden
 - Dan de rest van de saus spullen erbij
 - Kei lang (uren) rustig laten pruttelen
 - Spaghetti koken
-- Eten 
+- Eten

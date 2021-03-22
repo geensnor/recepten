@@ -1,8 +1,11 @@
+---
+recipeYield: 2
+recipeCategory: hoofdgerecht
+---
 # Shak Shuka
 
-Voor twee personen
-
 ## Ingredienten
+
 - 2 sjalotten
 - 1 rode paprika
 - 2 teentjes knoflook
@@ -18,6 +21,7 @@ Voor twee personen
 - olijfolie
 
 ## Bereiding
+
 - Snipper de sjalotten, snij de paprika, snij de knoflook en hak de chipotlepeper fijn
 - Olijfolie in de koekenpan en bak de sjalotten
 - Paprika en knoflook erbij en paar minuten bakken

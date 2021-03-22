@@ -1,5 +1,7 @@
-#Sa­la­de ni­çoi­se
-##Ingredienten
+# Sa­la­de ni­çoi­se
+
+## Ingredienten
+
 * 1 ei pp
 * Haricots verts
 * 1 rode ui
@@ -9,12 +11,15 @@
 * Ansjovis
 
 ### Optioneel
+
 * Zwarte olijven
 
 ### Dressing
+
 Lekkerste is iets van mayo en rode wijn azijn. Beetje peper erbij ofzo.
 
-##Bereiding
+## Bereiding
+
 * Haricots verts koken, maar niet te lang.
 * Rode ui in dunne ringen
 * Ei koken en in 4 stukken snijden

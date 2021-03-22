@@ -1,3 +1,7 @@
+---
+recipeYield: 2
+recipeCategory: hoofdgerecht
+---
 # Courgette spaghetti met groene pesto en garnalen
 
 ![afbeelding van gerecht](https://www.mindyourfeed.nl/wp-content/uploads/2017/03/courgette-spaghetti-met-groene-pesto-IMG_8549.jpg)
@@ -5,8 +9,6 @@
 Van [mindyourfeed.nl](https://www.mindyourfeed.nl/recepten/diner/courgette-spaghetti-met-groene-pesto/)
 
 ## Ingredienten
-
-Voor twee personen
 
 - 1 courgette
 - 1 shot Saclà Pesto Shots

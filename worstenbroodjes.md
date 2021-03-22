@@ -1,4 +1,5 @@
 # Worstenbroodjes
+
 Voor 30 stuks
 
 ## Ingredienten
@@ -14,7 +15,7 @@ Voor 30 stuks
 
 ## Deeg
 
-- 90 gram boter laten smelten in 600 ml halfvolle melk. 
+- 90 gram boter laten smelten in 600 ml halfvolle melk.
 - Twee theelepels suiker toevoegen aan de broodmix.
 - De handwarme melk met de gesmolten boter mengen met de broodmix en twee theelepels zout toevoegen.
 - Het deeg kneden tot een soepel deeg.
@@ -23,6 +24,7 @@ Voor 30 stuks
 - Bolletjes afdekken met een theedoek en 20 minuten laten rijzen. De bolletjes zijn goed als je er induwt en het deeg veert een beetje terug.
 
 ## Worstjes
+
 Gehakt kruiden en mengen met 3 fijngemaakte beschuiten en 1 ei. Hiervan 30 worstjes maken. Of gewoon voor gekruid gehakt kopen bij een goede slager die een beetje weet wat je moet hebben. Bijvoorbeeld Schoenmakers in Ravenstein [http://www.kwaliteitsslagerijschoenmakers.nl/](http://www.kwaliteitsslagerijschoenmakers.nl/).
 
 ## Oven

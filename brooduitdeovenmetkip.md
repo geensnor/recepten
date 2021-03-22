@@ -6,8 +6,6 @@ recipeYield: 3
 ---
 # Brood uit de oven met kip
 
-
-
 ## Ingredienten
 
 - 5 tomaten

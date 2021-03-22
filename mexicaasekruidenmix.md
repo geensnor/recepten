@@ -1,5 +1,7 @@
 # Mexicaase kruidenmix
+
 ## Ingredienten
+
 - 2 el paprikapoeder
 - 2 el oregano
 - 1 el komijnpoeder
@@ -18,4 +20,5 @@ Maar deze verhouding zou ook kunnen
 - 3 eetlepels paprikapoeder
 
 ## Bereiding
+
 Door elkaar gooien. Het is alleen maar de mix immers....

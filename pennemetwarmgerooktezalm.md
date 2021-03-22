@@ -1,7 +1,12 @@
+---
+recipeYield: 3
+recipeCategory: hoofdgerecht
+---
+
 # Penne met warmgerookte zalm
-Voor 3 personen
 
 ## Ingredienten
+
 - 1,5 prei
 - 1,5 sjalot
 - 1,5 knoflooktenen
@@ -16,8 +21,8 @@ Voor 3 personen
 - 1/3e blokje visbouillon
 - Peper en zout
 
-
 ## Bereiding
+
 1. Snij de prei in dunne ringen en de sjalot in halve ringen.
 2. Pers of snij de knoflook fijn
 3. Bak de de prei, sjalot en knoflook 4 minuten aan met wat olijfolie in een hapjespan

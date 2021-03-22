@@ -1,6 +1,12 @@
+---
+recipeYield: 3
+recipeCategory: hoofdgerecht
+---
+
 # Pappardelle met zalm en artisjok
 
 ## Ingredienten
+
 - 1 courgette
 - Potje artisjokharten in de olie
 - 250g verse pappardelle
@@ -11,6 +17,7 @@
 - Tuinkers
 
 ## Bereiding
+
 1. Snij de courgette en bak deze samen met de gesneden artisjokharten
 2. Kook de pappardelle
 3. Meng de limoen, mierikswortel, creme fraiche en een beetje "artisjokhart olie" tot een sausje

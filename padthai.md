@@ -6,6 +6,7 @@ recipeCategory: hoofdgerecht
 # Pad Thai
 
 ## Ingrediënten
+
 - 1 pak miehoen (250 g)
 - 3 limoenen
 - 4 el zonnebloemolie
@@ -20,6 +21,7 @@ recipeCategory: hoofdgerecht
 - Ongezouten pinda's of cashewnoten
 
 ## Bereiding
+
 1. Doe zonnebloemolie in een pan.
 2. Snij de ui in ringen en bak ze 2 minuten met de gesneden knoflook en de garnalen.
 3. Haal alles uit de pan en doe het even in een kom ofzo.

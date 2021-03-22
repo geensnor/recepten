@@ -1,7 +1,14 @@
+---
+recipeCategory: hoofdgerecht
+recipeCuisine: italiaans
+recipeYield: 4
+---
 # Spaghetti Vongole
+
 Van [Jamie Oliver](https://www.jamieoliver.com/recipes/pasta-recipes/spaghetti-vongole/)
 
-## Ingredienten voor 4 personen
+## Ingredienten
+
 - 1 kilo venusschelpen
 - Platte peterselie
 - 4 tenen knoflook
@@ -11,8 +18,8 @@ Van [Jamie Oliver](https://www.jamieoliver.com/recipes/pasta-recipes/spaghetti-v
 - Extra vigine olijfolie
 - 1 a 3 rode pepers
 
-
 ## Bereiding
+
 - Check of er geen slechte venusschelpen tussen zitten. Als ze niet dicht zitten, zijn e slecht.
 - Snij de peterselie, knoflook, cherry tomaten en pepers. Tomaten in 4-en. Houd wat peterselie bladeren apart, rest mag klein.
 - Kook de spaghetti. Begin 5 minuten voordat de spaghetti klaar is met de regel hieronder.

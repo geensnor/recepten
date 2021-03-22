@@ -16,10 +16,11 @@
 - 75 gram geraspte kaas voor pizza
 
 ## Bereiding
-1. Verwarm de oven voor op 175 °C. Snipper de ui. 
-2. Verhit de olie in een hapjespan en fruit de ui 3 min. 
-3. Snijd de tomaten in stukjes en voeg toe. Beetje kleine stukjes. Bak 10 min. op laag vuur. 
-4. Roer de pesto door de tomatensaus en breng op smaak met peper en eventueel zout. 
+
+1. Verwarm de oven voor op 175 °C. Snipper de ui.
+2. Verhit de olie in een hapjespan en fruit de ui 3 min.
+3. Snijd de tomaten in stukjes en voeg toe. Beetje kleine stukjes. Bak 10 min. op laag vuur.
+4. Roer de pesto door de tomatensaus en breng op smaak met peper en eventueel zout.
 5. Roer de carbonarasaus los met het water. NIET IN DE PAN GOOIEN!
 6. Vet de ovenschaal in met olie. Zorg er dan voor dat dit de opbouw wordt.
 
@@ -39,9 +40,6 @@
 |3 lasagne bladen|
 |Heel klein beetje tomatensaus|
 
-
 Bak de lasagne ca. 35 min. in het midden van de oven.
-
-
 
 [Recept op ah.nl](https://www.ah.nl/allerhande/recept/R-R706984)

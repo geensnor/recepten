@@ -4,7 +4,6 @@
 
 Voor ongeveer 2 personen.
 
-
 ## Ingredienten
 
 - 1 pak courgetti

@@ -1,7 +1,13 @@
+---
+recipeYield: 3
+recipeCategory: soep
+---
 # Tomatensoep
+
 Eigenlijk gewoon het soeppakket van de AH. Maar van dat pakket zijn de ingredienten vaak rot.
 
 ## Ingredienten
+
 - Knoflook
 - 1 blikje Tomatenpuree
 - Tomaten (Roma). Bakje voor 3 personen
@@ -12,6 +18,7 @@ Eigenlijk gewoon het soeppakket van de AH. Maar van dat pakket zijn de ingredien
 - Tijm en/of rozemarijn. Net waar je zin in hebt. Blokje gemer kan ook, maar maak het niet te gek.
 
 ## Bereiding
+
 - Knoflook snijden en met tomatenpuree in een pan doen
 - Even wachten
 - Peen en ui snijden, in de pan erbij gooien

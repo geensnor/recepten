@@ -1,5 +1,7 @@
-#Prei Mosterdsoep
-##Ingredienten
+# Prei Mosterdsoep
+
+## Ingredienten
+
 * Zaanse mosterd
 * Crème fraîche 200ml
 * Prei 500g
@@ -7,7 +9,8 @@
 * Spekreepjes
 * Peper
 
-##Bereiding
+## Bereiding
+
 * Spekreepjes bakken in de soeppan
 * Spekreepjes uit de pan halen
 * Prei in ringen snijden en een beetje aanbakken

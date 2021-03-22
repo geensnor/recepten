@@ -1,6 +1,7 @@
-#Springrolls
+# Springrolls
 
-##Ingredienten
+## Ingredienten
+
 * Gehaktreepjes
 * Gember
 * Knoflook
@@ -15,8 +16,8 @@
 * Wortel julienne
 * Rijstvellen
 
+## Bereiding
 
-##Bereiding
 * Maak een wasabimayo van wasabi, mayonaise en sojasaus
 * Kook de Quinoa (of sushirijst)
 * Serveer de rest in bakjes

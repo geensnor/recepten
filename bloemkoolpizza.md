@@ -1,6 +1,7 @@
 # Pizza met bloemkoolbodem
 
 ## Ingredienten
+
 - 2 Bloemkoolbodems
 - Pakje pasata
 - 2 tenen knoflook
@@ -10,8 +11,8 @@
 - Parmaham
 - Groene olijven
 
-
 ## Bereiding
+
 - Knoflook in stukjes snijden en bakken met pasata
 - Italiaanse kruiden erbij
 - Bloemkoolbodems 2 minuten afbakken

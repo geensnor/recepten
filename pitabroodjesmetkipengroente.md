@@ -1,6 +1,7 @@
 # Pitabroodjes met kip en groente
 
 ## Ingredienten
+
 - Pitabroodjes
 - Kip
 - Tomaten
@@ -13,6 +14,7 @@
 Gerecht is ook geschikt om een vergeten paprika of raar stuk courgette ofzo in te laten verdwijnen.
 
 ## Bereiding
+
 - Gebruik een pan met een beetje een hoge rand. Een wok ofzo.
 - Bak de kip, knoflook, ui.
 - Gooi de balsamico azijn erbij.
