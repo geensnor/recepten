@@ -34,7 +34,6 @@ author: 24Kitchen
 - keukenpapier
 - keukentouw
 
-
 ## Bereiding
 
 - Breng het water in een grote pan aan de kook, voeg de botten en de ossenstaart toe en schuim regelmatig af.
@@ -42,9 +41,9 @@ author: 24Kitchen
 - Voeg de geblakerde ui, knoflook en gember toe aan de pan en breng het geheel aan de kook. Zet het vuur laag en laat circa 5 uur koken. Schuim af en toe af.
 - Bind het stoofvlees met keukentouw op tot een soort rollade en laat circa 3 uur in de bouillon meekoken. Leg de sukade in de vriezer
 - Voeg circa het laatste uur de steranijs en de kruidnagel toe.
-- Tip voor nog meer smaak kun je ook wat korianderzaad, gekneusde kardemompeulen en kruidnagel toevoegen. En als je de kruiden in een theezeefje doet, kun je ze naderhand makkelijk terugvinden. 
+- Tip voor nog meer smaak kun je ook wat korianderzaad, gekneusde kardemompeulen en kruidnagel toevoegen. En als je de kruiden in een theezeefje doet, kun je ze naderhand makkelijk terugvinden.
 - Kook de noedels gaar volgens de bereidingswijze op de verpakking. Snijd de chilipeper fijn. Snijd de bosuitjes in ringetjes en de limoen in partjes.
 - Voeg een scheut vissaus en de suiker toe aan de soep en breng op smaak met zout en versgemalen peper. Haal het vlees wat nog niet heeft losgelaten van de botten en houd apart. Haal het stoofvlees uit de pan, laat afkoelen en snijd in dunne plakken.
 - Haal de sukade uit de vriezer en snijd in dunne plakken.
-- Serveren 
+- Serveren
 - Verdeel de noedels over de kommen, schenk hier de bouillon erbij. Verdeel de plakjes stoofvlees en sukade over de komen. Serveer met de chilipeper, bosuitjes, limoen, vissaus, tauge en kruiden.
