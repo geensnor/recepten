@@ -20,7 +20,7 @@ author: 24Kitchen
 - 1 bol knoflook
 - 200 g gember
 - 200 g stoofvlees
-- 200 g sukade
+- 200 g biefstuk
 - 3 steranijs
 - 2 kaneelstokjes
 - 200 g rijstnoedels
