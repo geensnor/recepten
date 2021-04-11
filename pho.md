@@ -1,6 +1,7 @@
 ---
+prepTime: P0DT8H00M
 cookTime: P0DT0H30M
-totalTime: P0DT0H30M
+totalTime: P0DT8H30M
 recipeCategory: Lunchgerecht
 recipeYield: 4 persons
 recipeCuisine: Aziatisch
