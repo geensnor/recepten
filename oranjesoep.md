@@ -1,7 +1,6 @@
 ---
 recipeYield: 3
-keywords: soep
-recipeCategory: hoofdgerecht
+recipeCategory: soep
 ---
 
 # Oranje soep
