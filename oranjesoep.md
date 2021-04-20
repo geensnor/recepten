@@ -1,15 +1,21 @@
+---
+recipeYield: 3
+keywords: soep
+recipeCategory: hoofdgerecht
+---
+
 # Oranje soep
 
 Beetje rare naam maar enfin
 
 ## Ingredienten
 
-- Gesneden snijbonen
-- Chorizo worst
-- Ui
+- 200 gram gesneden snijbonen
+- 1 chorizo worst
+- 1 ui
 - Blik gepelde tomaten
 - Pot gegrilde paprika's
-- Groentebouillon
+- 2 blokjes groentebouillon
 - Pimentón als dat je ding is
 
 ## Bereiding
