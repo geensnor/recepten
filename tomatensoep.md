@@ -15,7 +15,7 @@ Eigenlijk gewoon het soeppakket van de AH. Maar van dat pakket zijn de ingredien
 - 1 Ui
 - 2 Groenteboullion blokjes
 - Gehaktballetjes
-- Tijm en/of rozemarijn. Net waar je zin in hebt. Blokje gemer kan ook, maar maak het niet te gek.
+- Tijm en/of rozemarijn. Net waar je zin in hebt. Blokje gember kan ook, maar maak het niet te gek.
 
 ## Bereiding
 
