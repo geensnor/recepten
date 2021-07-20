@@ -1,6 +1,7 @@
 ---
 recipeYield: 3
 cookTime: PT30M
+recipeCategory: voorgerecht
 ---
 
 # Bagna cauda
