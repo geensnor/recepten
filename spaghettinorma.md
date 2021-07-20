@@ -10,6 +10,8 @@ Spaghetti van Norma. Het is een typisch gerecht van de Siciliaanse keuken, oorsp
 
 Lekkere spaghetti dus.
 
+![norma foto](https://static.ah.nl/static/recepten/img_057270_2048x1496_JPG.jpg)
+
 ## Ingredienten
 
 - 2 aubergines
