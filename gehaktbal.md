@@ -6,7 +6,7 @@ cookTime: PT30M
 author: Erik
 ---
 
-# Echt lekkere gehaktballen!
+# Echt lekkere gehaktballen
 
 Echt lekkere gehaktballen maak jezelf. Ik maak ze zoals mijn oma ze maakte en kan er niet genoeg van krijgen eigenlijk.
 
