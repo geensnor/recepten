@@ -1,6 +1,6 @@
 ---
 recipeYield: 4
-recipeCategory: hoofdgerecht
+recipeCategory: Hoofdgerecht
 recipeCuisine: Hollands
 cookTime: PT30M
 author: Erik
