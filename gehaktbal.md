@@ -1,3 +1,11 @@
+---
+recipeYield: 4
+recipeCategory: Hoofdgerecht
+recipeCuisine: Hollands
+cookTime: PT30M
+author: Erik
+---
+
 # Gehaktballen die kei lekker zijn
 
 Echt lekkere gehaktballen maak jezelf. Ik maak ze zoals mijn oma ze maakte en kan er niet genoeg van krijgen.
@@ -24,6 +32,6 @@ Echt lekkere gehaktballen maak jezelf. Ik maak ze zoals mijn oma ze maakte en ka
 - maak 6 mooie ballen. Rol ze tussen 2 handen zonder te veel druk of kneden. Maar wel stevig genoeg. Oefening baart hier kunst.
 - pak een smoorpan/gietijzeren stoofpan en smelt flinke klont roomboter.
 - bak de ballen aan zodat ze rondom mooi een bruin krokantje hebben. Draai het vuur lager
-- giet in de pan een half kopje heet water, goede schep mosterd, knijp een flinke hoeveelheid ketchup erbij en giet er ook wat ketjap bij. 
+- giet in de pan een half kopje heet water, goede schep mosterd, knijp een flinke hoeveelheid ketchup erbij en giet er ook wat ketjap bij.
 - sudder de ballen nu in 25 minuten gaar. Giet om de 5 minuten wat jus/sap met een lepel over de ballen
 - smullen maar!
