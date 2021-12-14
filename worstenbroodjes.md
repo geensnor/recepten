@@ -29,7 +29,7 @@ Gehakt kruiden en mengen met 3 fijngemaakte beschuiten en 1 ei. Hiervan 30 worst
 
 ## Oven
 
-Voor de eerste keer afbakken, moet de oven op "onder- en bovenwarmte" op 180 graden totdat ze mooi bruin zijn.
+Voor de eerste keer afbakken, moet de oven op "hete lucht" op 180 graden totdat ze mooi bruin zijn.
 
 ## Opwarmen voor het eten
 
