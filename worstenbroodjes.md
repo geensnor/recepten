@@ -25,7 +25,7 @@ Voor 30 stuks
 
 ## Worstjes
 
-Gehakt kruiden en mengen met 3 fijngemaakte beschuiten en 1 ei. Hiervan 30 worstjes maken. Of gewoon voor gekruid gehakt kopen bij een goede slager die een beetje weet wat je moet hebben. Bijvoorbeeld Schoenmakers in Ravenstein [http://www.kwaliteitsslagerijschoenmakers.nl/](http://www.kwaliteitsslagerijschoenmakers.nl/).
+Gehakt kruiden en mengen met 3 fijngemaakte beschuiten en 1 ei. Hiervan 30 worstjes maken. Koop wat lekker gehakt. Bijvoorbeeld van [https://www.buitengewonevarkens.nl](https://www.buitengewonevarkens.nl).
 
 ## Oven
 
