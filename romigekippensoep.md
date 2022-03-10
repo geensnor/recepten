@@ -12,7 +12,7 @@ author: miljuschka.nl
 - 1 el kokosolie
 - 5 cm gemberwortel in plakjes
 - 3 tenen knoflook geperst
-- ½ tl peperkorrels
+- 0,5 tl peperkorrels
 - 1 rode chilipeper fijngehakt
 - 2 tl kurkuma
 - 1 tl kerrie
