@@ -1,5 +1,5 @@
 ---
-recipeYield: 2
+recipeYield: 4
 recipeCategory: hoofdgerecht
 recipeCuisine: thais
 ---
@@ -15,11 +15,11 @@ recipeCuisine: thais
 - 2 el japanse sojasaus
 - 1 rode ui. 1/2 als hij erg groot is.
 - 1 rode peper
-- 150 g peultjes of sugar snaps per persoon.
+- 100 g peultjes of sugar snaps per persoon.
 - 1,5 komkommer
 - Verse koriander. Best veel.
 - Zonnebloemolie
-- Biefstuk
+- Biefstuk. Zoveel je lekker vind.
 - Gezouten pinda's
 
 ## Bereiding
