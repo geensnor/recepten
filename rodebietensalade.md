@@ -1,4 +1,4 @@
-# Salede met rode bieten en markreel
+# Salade met rode bieten en markreel
 
 Recept in experimentele fase. Nog nooit gemaakt en bij elkaar bedacht van andere recepten.
 
