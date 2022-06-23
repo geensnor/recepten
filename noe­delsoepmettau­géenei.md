@@ -1,3 +1,7 @@
+---
+recipeYield: 4
+recipeCategory: hoofdgerecht
+---
 # Noedelsoep met taugé en ei
 
 ![afbeelding van gerecht](https://static.ah.nl/static/recepten/img_008861_2048x1496_JPG.jpg)
