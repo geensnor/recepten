@@ -1,10 +1,10 @@
-# Salade met rode bieten en markreel
+# Salade met rode bieten en makreel
 
 Recept in experimentele fase. Nog nooit gemaakt en bij elkaar bedacht van andere recepten.
 
 ## Ingredienten
 
-* Markreel
+* Makreel
 * Rode bieten. Blokjes
 * Veldsla
 * Rode ui
