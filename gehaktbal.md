@@ -15,6 +15,7 @@ Echt lekkere gehaktballen maak jezelf. Ik maak ze zoals mijn oma ze maakte en ka
 - 500 gr half om half gehakt (rund kan ook, maar dan tijdens sudderen regelmatig jus eroverheen gieten met lepel)
 - ketjap
 - ketchup
+- 1.5 ui
 - 3 beschuiten
 - 1 ei
 - paprikapoeder
