@@ -26,6 +26,8 @@ author: miljuschka.nl
 - 1 limoen
 - 4 takjes koriander blad grof gehakt
 
+## Bereiding
+
 1. Verhit de (kokos)olie in een soeppan. Voeg de gember, knoflook, peperkorrels en chilipeper toe en bak 1 minuut. Bak de kurkuma en kerrie 1 minuut mee.
 2. Giet de kippenbouillon en kokosmelk erbij, leg de kipfilets erin en breng aan de kook. Draai het vuur zo dat de soep zachtjes blijft koken en pocheer de kipfilets in ongeveer 10 minuten gaar. Haal de kip eruit en leg op een snijplank.
 3. Voeg de dungesneden snijbonen toe en laat de soep nog 10 minuten koken.
