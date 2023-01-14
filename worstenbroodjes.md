@@ -33,4 +33,4 @@ Voor de eerste keer afbakken, moet de oven op "hete lucht" op 180 graden totdat 
 
 ## Opwarmen voor het eten
 
-In in een voorverwarmede oven 20 minuten op 150 graden.
+In in een voorverwarmede oven 25-30 minuten op 150 graden.
