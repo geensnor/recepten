@@ -10,7 +10,7 @@ recipeCategory: hoofdgerecht
 - 1 pak miehoen (250 g)
 - 3 limoenen
 - 4 el zonnebloemolie
-- 3 rode uien
+- 2 rode uien
 - 4 tenen knoflook, fijngesneden
 - 2 bakjes Hollandse garnalen (a 100 g)
 - 3 eieren, losgeklopt
