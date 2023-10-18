@@ -39,7 +39,7 @@ jobs:
       - name: FTP-Deploy-Action
         uses: SamKirkland/FTP-Deploy-Action@2.0.0
         env:
-          FTP_SERVER: jorisxl2.two.axc.nl
-          FTP_USERNAME: recepten@jorisxl2.two.axc.nl
+          FTP_SERVER: 45.82.191.81
+          FTP_USERNAME: ${{ secrets.ftpusername }}
           FTP_PASSWORD: ${{ secrets.ftppassword }}
           ARGS: --exclude-glob=.git*/** --exclude-glob=.git** --delete
