@@ -1,4 +1,4 @@
-# Kip uit piemonte
+# Kip uit piemonte (aka kaaswijnkip)
 
 Dit is verschrikkelijk lekkere kip met oude kaas en witte wijn. En eenvoudig te bereiden! Here we go!
 
