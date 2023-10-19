@@ -12,7 +12,7 @@ Eigenlijk gewoon het soeppakket van de AH. Maar van dat pakket zijn de ingredien
 - 1 blikje Tomatenpuree
 - Tomaten (Roma). Bakje voor 3 personen
 - 1 Winterpeen
-- 1 Ui
+- 1 ui
 - 2 Groenteboullion blokjes
 - Gehaktballetjes
 - Tijm en/of rozemarijn. Net waar je zin in hebt. Blokje gember kan ook, maar maak het niet te gek.
