@@ -6,7 +6,7 @@ Daarom een simpele handreiking hoe een perfecte moot te bakken.
 
 ## Benodigdheden
 
-1. Pan: Ik doet het gewoon met een koekenpan met anti-aanbak. Ik heb ook een gietijzeren grilpan maar eigenlijk gaat dat niet veel fijner. Krijg je wel leuk motievje van natuurlijk.
+1. Pan Ik doet het gewoon met een koekenpan met anti-aanbak. Ik heb ook een gietijzeren grilpan maar eigenlijk gaat dat niet veel fijner. Krijg je wel leuk motievje van natuurlijk.
 2. Zalm **met** huid (hoe witter hoe beter want vetter)
 3. Roomboter
 4. Zout
@@ -14,13 +14,13 @@ Daarom een simpele handreiking hoe een perfecte moot te bakken.
 6. Keukenpapier
 7. Zout/peper
 
-## Stap 1: Pekelen
+## Stap 1 Pekelen
 
 Leg de moot in een bak water en los daarin 80 gram zout op. De zalm mag helemaal onder en zwemmen in de bak met water. Zet het een tijdje weg, ong. 1 uur (in de koelkast). Na 1 uur haal je de vis uit de bak, spoel je het zout eraf en leg je het op keukenpapier om te drogen.
 
 Door het pekelen **ontrek je vocht uit de zalm** en wordt hij **steviger**.
 
-## Stap 2: Bakken
+## Stap 2 Bakken
 
 1. Flinke brok boter in de pan, gas erop (hoog vuur)!
 2. Smeer nog beetje boter op de huid van de zalm (optioneel)
