@@ -1,3 +1,7 @@
+De recepten zijn verhuisd naar De Digitale Tuin:
+https://github.com/geensnor/DeDigitaleTuin/tree/main/src/content/recepten
+
+
 # Metadata
 
 Als je wil dat de metadata van de recepten goed staat, moet je je aan de volgende regels houden:
